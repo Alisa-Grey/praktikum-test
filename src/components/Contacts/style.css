@@ -1,0 +1,12 @@
+.contacts-list__item:not(:last-child) {
+    margin-bottom: 20px;
+}
+.contacts-list__link {
+    display: inline-flex;
+    align-items: center;
+}
+.contacts-list__img {
+    width: 45px;
+    height: 45px;
+    margin-right: 4px;
+}

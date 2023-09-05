@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    margin-bottom: 60px;
+    padding: 10px 40px;
+}
+.nav {
+    flex-basis: 40%;
+    margin-left: auto;
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    margin-left: auto;
+    font-size: 26px;
+}
+.nav-list__item:not(:last-child) {
+    margin-right: 20px;
+}
