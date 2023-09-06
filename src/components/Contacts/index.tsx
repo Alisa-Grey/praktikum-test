@@ -14,7 +14,7 @@ const Contacts: FC = () => {
           >
             <img
               className='contacts-list__img'
-              src={require('../../images/github.png')}
+              src={require('../../assets/images/github.png')}
               alt='Иконка GitHub'
             />
             Исходный код проекта
@@ -28,7 +28,7 @@ const Contacts: FC = () => {
           >
             <img
               className='contacts-list__img'
-              src={require('../../images/telegram.png')}
+              src={require('../../assets/images/telegram.png')}
               alt='Иконка Telegram'
             />
             Телеграм

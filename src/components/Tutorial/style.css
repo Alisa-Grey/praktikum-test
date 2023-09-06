@@ -1,0 +1,9 @@
+.tutorials-list {
+    text-align: center;
+}
+.tutorials-list__heading {
+    margin-bottom: 10px;
+}
+.tutorials-list__item {
+    margin-bottom: 20px;
+}

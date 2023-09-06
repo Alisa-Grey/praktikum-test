@@ -18,3 +18,14 @@
 .nav-list__item:not(:last-child) {
     margin-right: 20px;
 }
+@media screen and (max-width: 800px) {
+    .nav {
+        flex-basis: 100%;
+    }
+}
+@media screen and (max-width: 500px) {
+    .nav-list {
+        justify-content: center;
+        font-size: 19px;
+    }
+}
