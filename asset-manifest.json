@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/praktikum-test/static/css/main.3a1eaf33.css",
+    "main.js": "/praktikum-test/static/js/main.3d84ea5d.js",
+    "static/media/screencast.mp4": "/praktikum-test/static/media/screencast.46a66ca5db317d3662c7.mp4",
+    "static/media/old_photo.jpg": "/praktikum-test/static/media/old_photo.21082096b8851000d1b6.jpg",
+    "static/media/latest_photo.jpg": "/praktikum-test/static/media/latest_photo.0b03bce48ace007ddd4e.jpg",
+    "static/media/github.png": "/praktikum-test/static/media/github.e8efa7f43ecd05b0a5e4.png",
+    "static/media/telegram.png": "/praktikum-test/static/media/telegram.41197565c72af29ccc72.png",
+    "index.html": "/praktikum-test/index.html",
+    "main.3a1eaf33.css.map": "/praktikum-test/static/css/main.3a1eaf33.css.map",
+    "main.3d84ea5d.js.map": "/praktikum-test/static/js/main.3d84ea5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a1eaf33.css",
+    "static/js/main.3d84ea5d.js"
+  ]
+}
